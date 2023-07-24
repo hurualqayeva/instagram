@@ -12,7 +12,7 @@ class MyApp extends StatelessWidget {
   Widget build(BuildContext context) {
     return MaterialApp(
       debugShowCheckedModeBanner: false,
-      title: 'Instagramm',
+      title: 'Instagram',
       theme: ThemeData(
         appBarTheme: const AppBarTheme(
             elevation: 1,
